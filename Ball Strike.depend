@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1429597390 source:c:\users\kushank\documents\codeblock\ball strike\main.cpp
+	<tchar.h>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<stdio.h>
+	"resource.h"
+
+1429345131 c:\users\kushank\documents\codeblock\ball strike\strike_check.c
+
+1429345173 source:c:\users\kushank\documents\codeblock\ball strike\strike_check.c
+
+1429473163 source:c:\users\kushank\documents\codeblock\ball strike\resource.rc
+	"resource.h"
+
+1429473051 c:\users\kushank\documents\codeblock\ball strike\resource.h
+
+1433007446 source:d:\my documents\codeblock\ball strike\main.cpp
+	<tchar.h>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<stdio.h>
+	"resource.h"
+
+1430306867 d:\my documents\codeblock\ball strike\resource.h
+
+1430308139 source:d:\my documents\codeblock\ball strike\resource.rc
+	"resource.h"
+

@@ -1,0 +1,14 @@
+#ifndef _resource_rc
+#define _resource_rc
+
+#include "resource.h"
+
+    IDB_BITMAP1        BITMAP         ".\\Slide1.BMP"
+    IDB_BITMAP2     BITMAP          ".\\data\\ball.bmp"
+    IDB_BOX1        BITMAP          ".\\data\\box1.bmp"
+    IDB_BOX2        BITMAP          ".\\data\\box2.bmp"
+    IDB_BOX3        BITMAP          ".\\data\\box3.bmp"
+    IDB_BRUSH       BITMAP          ".\\data\\brus.bmp"
+  //  IDB_BOX4        BITMAP          ".\\data\\box4.bmp"
+
+#endif
